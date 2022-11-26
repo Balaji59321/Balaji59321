@@ -5,10 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji59321" alt="balaji59321" /></a> </p>
 
+- 🌱 I’m currently learning **React JS,Python Flask**
+
 - 👨‍💻 All of my projects are available at [https://balaji-portfolio-site.netlify.app/](https://balaji-portfolio-site.netlify.app/)
+
+- 📫 How to reach me **balaji59321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/balaji-narasimhan-m-v-l-138aa4144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji-narasimhan-m-v-l-138aa4144" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/balaji59321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="balaji59321" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
